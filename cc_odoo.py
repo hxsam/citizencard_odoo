@@ -4,7 +4,6 @@ import sys
 import xmlrpclib
 import base64
 from time import sleep
-from pgmagick import Image
 import os
 
 from smartcard.CardType import AnyCardType
