@@ -1,5 +1,5 @@
 # citizencard_odoo
-Read portuguese citizen card using Python and odoo external API
+Read portuguese citizen card using Python and post data using odoo external API
 
 IN ENGLISH:
 
