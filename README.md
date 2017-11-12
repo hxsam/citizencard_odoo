@@ -28,7 +28,7 @@ Username: demo
 Password: demo
 
 Notes:
-- This app was tested for WINDOWS 10 and for the GEMALTO card reader!
+- This app was tested for WINDOWS 10 and, for the GEMALTO card reader and for odoo 9!
 - To access the address you need to use the PIN code, by defaul is 0000. If this PIN is does not have been changed or the card is not blocked, this app read the address automatically. Otherwise, only all free available information is transfered.
 
 Data transfered by the card:
@@ -64,7 +64,7 @@ Username: demo
 Password: demo
 
 Notas:
-- Esta aplicação foi testada com o WINDOWS 10 e com o leitor de cartões da GEMALTO!
+- Esta aplicação foi testada com o WINDOWS 10, com o leitor de cartões da GEMALTO e para o odoo 9!
 - Para aceder à morada é necessário um PIN que por default é 0000. Caso o cartão tenha este PIN ou não se encontre bloqueado, a aplicação lê automaticamente a morada. Caso contrário, processa a restante informação.
 
 Os elementos transferidos são:
