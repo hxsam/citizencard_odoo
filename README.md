@@ -4,13 +4,19 @@ Read portuguese citizen card using Python and post data using odoo external API
 IN ENGLISH:
 
 To install the app:
+
 1) Install drivers for the reader (GemPcCCID for Gemalto reader)
+
 2) Insert "cartao_cc" folder anywhere in the c: drive.
 
 To startup with windows:
+
 3) Create a shortcut from the "cartao_cc.exe" file and then copy this file
+
 4) Open Run from start and type: shell:startup
+
 5) Paste the copied file into the startup window
+
 6) Restart PC and wait up to appear a popup to insert card into the reader. All the process is automatic.
 
 Credentials to access odoo VM:
