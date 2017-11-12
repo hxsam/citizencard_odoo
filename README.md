@@ -2,6 +2,7 @@
 Read portuguese citizen card using Python and odoo external API
 
 IN ENGLISH:
+
 To install the app:
 1) Install drivers for the reader (GemPcCCID for Gemalto reader)
 2) Insert "cartao_cc" folder anywhere in the c: drive.
@@ -28,6 +29,7 @@ Data transfered by the card:
 
 
 EM PORTUGUÊS:
+
 Para instalar a aplicação:
 1) Instalar drivers do leitor de cartões (GemPcCCID no caso do leitor da Gemalto)
 2) Inserir a pasta "cartao_cc" em qualquer local no disco c:
