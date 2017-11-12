@@ -20,8 +20,11 @@ To startup with windows:
 6) Restart PC and wait up to appear a popup to insert card into the reader. All the process is automatic.
 
 Credentials to access odoo VM:
+
 http://odoo9-cartaocidadao-pedroposeiro.c9users.io
+
 Username: demo
+
 Password: demo
 
 Notes:
@@ -53,8 +56,11 @@ Para arrancar a aplicação com o windows:
 6) Reiniciar o PC e esperar que apareça um popup a dizer que pode inserir um cartão no leitor. Todo o restante processo é automático.
 
 Credenciais de acesso ao odoo:
+
 http://odoo9-cartaocidadao-pedroposeiro.c9users.io
+
 Username: demo
+
 Password: demo
 
 Notas:
