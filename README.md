@@ -40,7 +40,7 @@ Password: *demo*
 ## Test compatibility:
 ### OS Test
 - [x] WINDOWS 10 
-- [x] WINDOWS 7 (Popups is not working)
+- [x] WINDOWS 7
 
 ### Odoo version
 - [x] ODOO 9
@@ -86,7 +86,7 @@ Password: *demo*
 ## Teste de compatibilidade:
 ### Sistema operativo
 - [x] WINDOWS 10 
-- [x] WINDOWS 7 (Popups is not working)
+- [x] WINDOWS 7
 
 ### Odoo versão
 - [x] ODOO 9
