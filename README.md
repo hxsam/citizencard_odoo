@@ -28,7 +28,6 @@ Username: demo
 Password: demo
 
 Notes:
-- This app was tested for WINDOWS 10 and, for the GEMALTO card reader and for odoo 9!
 - To access the address you need to use the PIN code, by defaul is 0000. If this PIN is does not have been changed or the card is not blocked, this app read the address automatically. Otherwise, only all free available information is transfered.
 
 Data transfered by the card:
@@ -36,9 +35,17 @@ Data transfered by the card:
 - Address (if PIN by default is 0000);
 - Photo.
 
-Test compatibility:
+# Test compatibility:
+## OS Test
 - [x] WINDOWS 10 
+- [x] WINDOWS 7 (Popups is not working)
 
+## Odoo version
+- [x] ODOO 9
+
+## Card Reader
+- [x] Gemalto GemPC Twin USB
+- [x] HP USB Smartcard CCID Keyboard
 
 EM PORTUGUÊS:
 
