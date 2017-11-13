@@ -1,7 +1,7 @@
 # citizencard_odoo
 Read portuguese citizen card based on Python and post data using odoo external API
 
-# IN ENGLISH:
+## IN ENGLISH:
 
 ## To install the app:
 
@@ -47,15 +47,15 @@ Password: demo
 - [x] Gemalto GemPC Twin USB
 - [x] HP USB Smartcard CCID Keyboard
 
-EM PORTUGUÊS:
+## EM PORTUGUÊS:
 
-Para instalar a aplicação:
+## Para instalar a aplicação:
 
 1) Instalar drivers do leitor de cartões (GemPcCCID no caso do leitor da Gemalto)
 
 2) Inserir a pasta "cartao_cc" em qualquer local no disco c:
 
-Para arrancar a aplicação com o windows:
+## Para arrancar a aplicação com o windows:
 
 3) Criar um ficheiro de atalho do ficheiro "cartao_cc.exe" e depois cortar/copiar esse ficheiro (cartao_cc - Shortcut)
 
@@ -65,7 +65,7 @@ Para arrancar a aplicação com o windows:
 
 6) Reiniciar o PC e esperar que apareça um popup a dizer que pode inserir um cartão no leitor. Todo o restante processo é automático.
 
-Credenciais de acesso ao odoo:
+## Credenciais de acesso ao odoo:
 
 http://odoo9-cartaocidadao-pedroposeiro.c9users.io
 
@@ -73,13 +73,24 @@ Username: demo
 
 Password: demo
 
-Notas:
-- Esta aplicação foi testada com o WINDOWS 10, com o leitor de cartões da GEMALTO e para o odoo 9!
+## Notas:
 - Para aceder à morada é necessário um PIN que por default é 0000. Caso o cartão tenha este PIN ou não se encontre bloqueado, a aplicação lê automaticamente a morada. Caso contrário, processa a restante informação.
 
-Os elementos transferidos são:
-- Dados pessoais;
-- Morada (caso o PIN seja 0000);
-- Fotografia.
+## Os elementos transferidos são:
+- [x] Dados pessoais;
+- [x] Morada (caso o PIN seja 0000);
+- [x] Fotografia.
+
+## Teste de compatibilidade:
+### Sistema operativo
+- [x] WINDOWS 10 
+- [x] WINDOWS 7 (Popups is not working)
+
+### Odoo versão
+- [x] ODOO 9
+
+### Leitor de cartões
+- [x] Gemalto GemPC Twin USB
+- [x] HP USB Smartcard CCID Keyboard
 
 Any additional question please contact me by email: pedroposeiro@gmail.com
