@@ -1,5 +1,6 @@
 # citizencard_odoo
 Read portuguese citizen card based on Python and post data using odoo external API
+
 Any additional question please contact me by email: pedroposeiro@gmail.com
 
 ## IN ENGLISH:
