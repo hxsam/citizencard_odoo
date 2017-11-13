@@ -36,6 +36,9 @@ Data transfered by the card:
 - Address (if PIN by default is 0000);
 - Photo.
 
+Test compatibility:
+- [x] WINDOWS 10 
+
 
 EM PORTUGUÊS:
 
