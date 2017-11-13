@@ -13,7 +13,7 @@ Read portuguese citizen card based on Python and post data using odoo external A
 
 3) Create a shortcut from the "cartao_cc.exe" file and then copy this file
 
-4) Open Run from start and type: shell:startup
+4) Open Run from start and type: *shell:startup*
 
 5) Paste the copied file into the startup window
 
@@ -23,9 +23,9 @@ Read portuguese citizen card based on Python and post data using odoo external A
 
 http://odoo9-cartaocidadao-pedroposeiro.c9users.io
 
-Username: demo
+Username: *demo*
 
-Password: demo
+Password: *demo*
 
 ## Notes:
 - To access the address you need to use the PIN code, by defaul is 0000. If this PIN is does not have been changed or the card is not blocked, this app read the address automatically. Otherwise, only all free available information is transfered.
@@ -59,7 +59,7 @@ Password: demo
 
 3) Criar um ficheiro de atalho do ficheiro "cartao_cc.exe" e depois cortar/copiar esse ficheiro (cartao_cc - Shortcut)
 
-4) Abrir a janela Run (Executar) no iniciar e escrever: shell:startup
+4) Abrir a janela Run (Executar) no iniciar e escrever: *shell:startup*
 
 5) Colar o ficheiro de atalho na janela que abriu
 
@@ -69,9 +69,9 @@ Password: demo
 
 http://odoo9-cartaocidadao-pedroposeiro.c9users.io
 
-Username: demo
+Username: *demo*
 
-Password: demo
+Password: *demo*
 
 ## Notas:
 - Para aceder à morada é necessário um PIN que por default é 0000. Caso o cartão tenha este PIN ou não se encontre bloqueado, a aplicação lê automaticamente a morada. Caso contrário, processa a restante informação.
