@@ -1,15 +1,15 @@
 # citizencard_odoo
 Read portuguese citizen card based on Python and post data using odoo external API
 
-IN ENGLISH:
+# IN ENGLISH:
 
-To install the app:
+## To install the app:
 
 1) Install drivers for the reader (GemPcCCID for Gemalto reader)
 
 2) Insert "cartao_cc" folder anywhere in the c: drive.
 
-To startup with windows:
+## To startup with windows:
 
 3) Create a shortcut from the "cartao_cc.exe" file and then copy this file
 
@@ -19,7 +19,7 @@ To startup with windows:
 
 6) Restart PC and wait up to appear a popup to insert card into the reader. All the process is automatic.
 
-Credentials to access odoo VM:
+## Credentials to access odoo VM:
 
 http://odoo9-cartaocidadao-pedroposeiro.c9users.io
 
@@ -27,23 +27,23 @@ Username: demo
 
 Password: demo
 
-Notes:
+## Notes:
 - To access the address you need to use the PIN code, by defaul is 0000. If this PIN is does not have been changed or the card is not blocked, this app read the address automatically. Otherwise, only all free available information is transfered.
 
-Data transfered by the card:
-- Personal data;
-- Address (if PIN by default is 0000);
-- Photo.
+## Data transfered by the card:
+- [x] Personal data;
+- [x] Address (if PIN by default is 0000);
+- [x] Photo.
 
-# Test compatibility:
-## OS Test
+## Test compatibility:
+### OS Test
 - [x] WINDOWS 10 
 - [x] WINDOWS 7 (Popups is not working)
 
-## Odoo version
+### Odoo version
 - [x] ODOO 9
 
-## Card Reader
+### Card Reader
 - [x] Gemalto GemPC Twin USB
 - [x] HP USB Smartcard CCID Keyboard
 
