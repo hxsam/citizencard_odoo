@@ -1,5 +1,6 @@
 # citizencard_odoo
 Read portuguese citizen card based on Python and post data using odoo external API
+Any additional question please contact me by email: pedroposeiro@gmail.com
 
 ## IN ENGLISH:
 
@@ -92,5 +93,3 @@ Password: *demo*
 ### Leitor de cartões
 - [x] Gemalto GemPC Twin USB
 - [x] HP USB Smartcard CCID Keyboard
-
-Any additional question please contact me by email: pedroposeiro@gmail.com
